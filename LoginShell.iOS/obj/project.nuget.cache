@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+ZE2aFyjDTW98xkxsH4OFi5W11GEWeCjx26UHamVgxKeL8+F4dkVw2GvbFj96mWLTWf3DaWGcL1jroxCfFe6A==",
+  "success": true,
+  "projectFilePath": "G:\\LoginShell\\LoginShell.iOS\\LoginShell.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\splat\\9.5.49\\splat.9.5.49.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
